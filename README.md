@@ -15,7 +15,7 @@ Python Flask application that uses machine learning to predict visual auras usin
 Poster presentation for a research project showcasing a data coding application that interfaces with the OpenAI API to automatically score experimental CSV files.  
 *Uploaded files are processed using pandas; scoring supports binary and multi-categorical (exclusive and non-exclusive) outputs.*  
 
-*(Poster presentation only; source code unavailable due to grant restrictions)*
+*(Poster presentation only; source code unavailable due to restrictions)*
 
 
 
