@@ -6,7 +6,7 @@ I'm a Master's student in **Analytics & Applied AI** at Dakota State University.
 
 ## Projects
 
-### [Migraine Clinical Dashboard](https://github.com/DuztyMusketear/migraine-clinical-dashboard) 🧠
+### [Migraine Clinical Dashboard](https://github.com/DuztyMusketear/migraine_clinical_dashboard) 🧠
 Python Flask application that uses machine learning to predict visual auras using clinical data. The system includes a full ETL pipeline, interactive visualizations, patient-level predictions, feature contribution analysis, and model performance tracking  
 
 *(Python, Flask, scikit-learn, Plotly)*
